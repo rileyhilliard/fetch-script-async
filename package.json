@@ -1,6 +1,6 @@
 {
   "name": "fetch-script-async",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "async script fetcher to help lazy load scripts after a document has loaded",
   "main": "src/index.js",
   "repository": {
