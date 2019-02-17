@@ -1,0 +1,22 @@
+{
+  "name": "fetch-script-async",
+  "main": "dist/fetch-script-async.min.js",
+  "version": "1.0.10",
+  "homepage": "https://github.com/rileyhilliard/fetch-script-async",
+  "authors": [
+    "Riley Hilliard <rileyhilliard@gmail.com>"
+  ],
+  "description": "async script fetcher to help lazy load scripts after a document has loaded",
+  "keywords": [
+    "async",
+    "script",
+    "fetch",
+    "lazy-load",
+    "lazy",
+    "load"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*"
+  ]
+}
